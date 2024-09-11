@@ -1,0 +1,17 @@
+# Ignorar arquivos de dados brutos
+dataset/
+*.csv
+
+# Ignorar arquivos de modelo treinado
+*.pkl
+
+# Ignorar arquivos temporários
+*.tmp
+*.log
+
+# Ignorar arquivos de ambiente
+.env
+
+# Ignorar arquivos de IDEs
+.vscode/
+.idea/
