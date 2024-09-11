@@ -1,0 +1,18 @@
+Projeto6-Analise-Dados-Seguro
+│
+├── src/
+│   ├── data_preprocessing.py
+│   ├── eda.py
+│   ├── hypothesis_testing.py
+│   └── modeling.py
+│
+├── dataset/
+│   └── insurance.csv
+│
+├── notebooks/
+│   └── exploratory_analysis.ipynb
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+└── LICENSE
